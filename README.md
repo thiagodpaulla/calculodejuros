@@ -5,6 +5,9 @@
 ## Meet
 
 
+![](https://github.com/thiagodpaulla/calculodejuros/blob/main/WhatsApp%20Image%202021-01-06%20at%2011.37.43%20(1).jpeg)
+
+
 ## Feel free to interact with the project at the link:
 
 
