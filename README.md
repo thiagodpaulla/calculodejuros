@@ -20,6 +20,9 @@ https://thiagodpaulla.github.io/
 # Project
 
 
+A table of compound interest calculations using React
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
